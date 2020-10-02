@@ -1,5 +1,9 @@
+# I thank Shugabuga and Ameri for creating this. Download takes a while, but amazing.
+
 # RomCollection
 ### A collection of ROMs for RetroPie and other emulators.
+
+
 
 ## Install (RetroPie)
 
@@ -14,3 +18,4 @@
 ## License
 
 I have no rights to license these files as I don't own them.
+(nor do I)
